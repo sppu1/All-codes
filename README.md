@@ -1,4 +1,4 @@
-# List of Practicals
+# CG & OOP
 
 <table style="width:100%">
   <tr>
