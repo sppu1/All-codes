@@ -42,7 +42,7 @@ Rotation. Apply the concept of operator overloading.</td>
     <td>5</td>
     <td>Write C++ program to generate fractal patterns by using
 
-Koch curves.</td>
+hilbert curves.</td>
   </tr>
   
   <tr>
