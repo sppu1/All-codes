@@ -142,8 +142,7 @@ population of the state.</td>
   
   <tr>
     <td>16</td>
-    <td>Content Beyond Syllabus</td>
-    <td>Design and develop the Tic-Tac-Toe Game using C++.</td>
+    <td>Design and develop the Tic-Tac-Toe Game using C++</td>
   </tr>
   
   <tr>
