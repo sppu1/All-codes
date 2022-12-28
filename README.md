@@ -64,18 +64,10 @@ Apply the concept of polymorphism.</td>
 
 Design and implement game / animation clip / Graphics
 Editor using open source graphics library.</td>
-  </tr>  
-  <tr>
-    <td>1</td>
-    <td>Study Assignment</td>
-    <td>Install, configure 64-bit Linux Operating Systems, study
-basic architecture, memory system, and learn basic
-administration.</td>
-  </tr>
+  </tr> 
   
   <tr>
-    <td>2</td>
-    <td>A</td>
+    <td>9</td>
     <td>Implement a class Complex which represents the Complex
 Number data type. Implement the following operations:<br>
 1. Constructor (including a default constructor which
@@ -88,8 +80,7 @@ Numbers</td>
   </tr>
   
   <tr>
-    <td>3</td>
-    <td>A</td>
+    <td>10</td>
     <td>Develop an object-oriented program in C++ to create a
 database of student information system containing the
 following information: Name, Roll number, Class, division,
@@ -102,8 +93,7 @@ operators-new and delete as well as exception handling.</td>
   </tr>
   
   <tr>
-    <td>4</td>
-    <td>B</td>
+    <td>11</td>
     <td>Imagine a publishing company which does marketing for
 book and audio cassette versions. Create a class
 publication that stores the title (a string) and price (type
@@ -117,23 +107,20 @@ with zero values.</td>
   </tr>
   
   <tr>
-    <td>5</td>
-    <td>B</td>
+    <td>12</td>
     <td>Write a C++ program that creates an output file, writes
 information to it, closes the file and open it again as an
 input file and read the information from the file.</td>
   </tr>
   
   <tr>
-    <td>6</td>
-    <td>B</td>
+    <td>13</td>
     <td>Write a function template selection Sort. Write a program
 that inputs, sorts and outputs an int array and a float array.</td>
   </tr>
   
   <tr>
-    <td>7</td>
-    <td>C</td>
+    <td>14</td>
     <td>Write C++ program using STL for sorting and searching
 user defined records such as personal records (Name,
 DOB, Telephone number etc.) using vector container.
@@ -143,8 +130,7 @@ code, name, cost, quantity etc.) using vector container.</td>
   </tr>
   
   <tr>
-    <td>8</td>
-    <td>C</td>
+    <td>15</td>
     <td>Write a program in C++ to use map associative container.
 The keys will be the names of states and the values will be
 the populations of the states. When the program runs, the
@@ -155,7 +141,7 @@ population of the state.</td>
   </tr>
   
   <tr>
-    <td>9</td>
+    <td>16</td>
     <td>Content Beyond Syllabus</td>
     <td>Design and develop the Tic-Tac-Toe Game using C++.</td>
   </tr>
