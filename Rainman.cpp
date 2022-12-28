@@ -4,6 +4,8 @@
 #include<stdlib.h>
 #include<dos.h>
 
+using namespace std;
+
 class walkingman
 {
 int rhx,rhy;
