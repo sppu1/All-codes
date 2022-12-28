@@ -4,6 +4,8 @@
 #include <dos.h>
 #include <conio.h>
 
+using namespace std;
+
 class kochCurve
 {
 public:
