@@ -24,3 +24,5 @@ gcc circle.c -o circle -lgraph
 
 ./circle
 
+for GLUT.h
+g++ gl.cpp -o gl -lGL -lGLU -lglut
