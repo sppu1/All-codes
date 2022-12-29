@@ -1,0 +1,14 @@
+Sr. No.	Titile of Assignment
+1	Write C++ program to draw a concave polygon and fill it with desired color using scan fill algorithm. Apply the concept of inheritance.
+2	Write C++ program to implement Cohen Sutherland line clipping algorithm.
+3	Write C++ program to draw the following pattern. Use DDA line and Bresenham‘s circle drawing algorithm. Apply the concept of encapsulation.
+OR
+Write C++ program to draw the following pattern. Use DDA line and Bresenham‘s circle drawing algorithm. Apply the concept of encapsulation.
+4	Write C++ program to draw 2-D object and perform following basic transformations, Scaling b) Translation c) Rotation. Apply the concept of operator overloading.
+5	Write C++ program to generate fractal patterns by using
+Koch curves.
+
+6	Write C++ program to draw 3-D cube and perform following transformations on it using OpenGL i) Scaling ii) Translation iii) Rotation about an axis (X/Y/Z).
+7	Write a C++ program to implement the game Tic Tac Toe. Apply the concept of polymorphism.
+8	Mini-Projects/ Case Study
+Design and implement game / animation clip / Graphics Editor using open source graphics library.
