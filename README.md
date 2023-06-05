@@ -1,10 +1,10 @@
-# CG & OOP
+# DSAL
 
 <table style="width:100%">
   <tr>
     <th>Sr. No.</th>
-    <th>Group</th>
     <th>Titile of Assignment</th>
+    <th>idk</th>
   </tr>
   
   <tr>
@@ -50,7 +50,7 @@ whether the graph is connected or not. Justify the storage representation used.
   
   <tr>
     <td>8</td>
-    <td>Given sequence k = k1 <k2 < … <kn of n sorted keys, with a search probability pi for each key ki . Build the Binary search tree that has the least search cost given the access probability for each key?</td>
+    <td>Given sequence k = k1 <k2 < <kn of n sorted keys, with a search probability pi for each key ki . Build the Binary search tree that has the least search cost given the access probability for each key?</td>
   </tr> 
   
   <tr>
