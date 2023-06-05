@@ -1,79 +1,148 @@
-# DSAL
+# CG & OOP
 
 <table style="width:100%">
   <tr>
     <th>Sr. No.</th>
+    <th>Group</th>
     <th>Titile of Assignment</th>
-    <th>idk</th>
   </tr>
   
   <tr>
     <td>1</td>
-    <td>Consider telephone book database of N clients. Make use of a hash table implementation to quickly look up client‘s telephone number. Make use of two collision handling techniques and compare them using number of comparisons required to find a set of telephone numbers</td>
+    <td>Write C++ program to draw a concave polygon and fill it with
+desired color using scan fill algorithm. Apply the concept of
+inheritance.</td>
   </tr>
   
   <tr>
     <td>2</td>
-    <td>To create ADT that implement the "set" concept.
-a. Add (new Element) -Place a value into the set , b. Remove (element) Remove the value
-c. Contains (element) Return true if element is in collection, d. Size () Return number of values in collection Iterator () Return an iterator used to loop over collection, e. Intersection of two sets , f. Union of two sets, g. Difference between two sets, h. Subset
-</td>
+    <td>Write C++ program to implement Cohen Sutherland line
+clipping algorithm.</td>
   </tr>
   
   <tr>
     <td>3</td>
-    <td>Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing a binary tree -
-i. Insert new node, ii. Find number of nodes in longest path from root, iii. Minimum data value found in the tree, iv. Change a tree so that the roles of the left and right pointers are swapped at every node, v. Search a value
+    <td>Write C++ program to draw the following pattern. Use
+DDA line and Bresenham‘s circle drawing algorithm.
+Apply the concept of encapsulation.<br>
+OR<br>
+Write C++ program to draw the following pattern. Use
+DDA line and Bresenham‘s circle drawing algorithm. Apply
+the concept of encapsulation.</td>
   </tr>
   
   <tr>
     <td>4</td>
-    <td>Construct an expression tree from the given prefix expression eg. +--a*bc/def and traverse it using post order traversal (non recursive) and then delete the entire tree.</td>
+    <td>Write C++ program to draw 2-D object and perform
+following basic transformations, Scaling b) Translation c)
+Rotation. Apply the concept of operator overloading.</td>
   </tr>
   
   <tr>
     <td>5</td>
-    <td>A Dictionary stores keywords and its meanings. Provide facility for adding new keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword. Use Binary Search Tree for implementation.</td>
+    <td>Write C++ program to generate fractal patterns by using
+
+hilbert curves.</td>
   </tr>
   
   <tr>
     <td>6</td>
-    <td>There are flight paths between cities. If there is a flight between city A and city B then there is an edge between the cities. The cost of the edge can be the time that flight take to reach city B from A, or the amount of fuel used for the journey. Represent this as a graph. The node can be represented by airport name or name of the city. Use adjacency list representation of the graph or use adjacency matrix representation of the graph. Check
-whether the graph is connected or not. Justify the storage representation used.
-</td>
+    <td>Write C++ program to draw 3-D cube and perform
+following transformations on it using OpenGL i) Scaling ii)
+Translation iii) Rotation about an axis (X/Y/Z).</td>
   </tr>
   
   <tr>
     <td>7</td>
-    <td>You have a business with several offices; you want to lease phone lines to connect them up with each other; and the phone company charges different amounts of money to connect different pairs of cities. You want a set of lines that connects all your offices with a minimum total cost. Solve the problem by suggesting appropriate data structures.</td>
+    <td>Write a C++ program to implement the game Tic Tac Toe.
+Apply the concept of polymorphism.</td>
   </tr>
   
   <tr>
     <td>8</td>
-    <td>Given sequence k = k1 <k2 < <kn of n sorted keys, with a search probability pi for each key ki . Build the Binary search tree that has the least search cost given the access probability for each key?</td>
+    <td>Mini-Projects/ Case Study
+
+Design and implement game / animation clip / Graphics
+Editor using open source graphics library.</td>
   </tr> 
   
   <tr>
     <td>9</td>
-    <td>A Dictionary stores keywords and its meanings. Provide facility for adding new keywords, deleting keywords, updating values of any entry. Provide facility to display whole data sorted in ascending/ Descending order. Also find how many maximum comparisons may require for finding any keyword. Use Height balance tree and find the complexity for finding a keyword.
-  </td>
+    <td>Implement a class Complex which represents the Complex
+Number data type. Implement the following operations:<br>
+1. Constructor (including a default constructor which
+creates the complex number 0+0i).<br>
+2. Overloaded operator+ to add two complex numbers.<br>
+3. Overloaded operator * to multiply two complex
+number.<br>
+4. Overloaded << and >> to print and read Complex
+Numbers</td>
   </tr>
   
   <tr>
     <td>10</td>
-    <td>Consider a scenario for Hospital to cater services to different kinds of patients as Serious (top priority), b) non-serious (medium priority), c) General Checkup (Least priority). Implement the priority queue to cater services to the patients.</td>
+    <td>Develop an object-oriented program in C++ to create a
+database of student information system containing the
+following information: Name, Roll number, Class, division,
+Date of Birth, Blood group, Contact address, telephone
+number, driving license no. etc.
+Construct the databasewith suitable member functions for
+initializing and destroying the data viz constructor, this
+pointer, inline code and dynamic memory allocation
+operators-new and delete as well as exception handling.</td>
   </tr>
   
   <tr>
     <td>11</td>
-    <td>Department maintains a student information. The file contains roll number, name, division and address. Allow user to add, delete information of student. Display information of particular employee. If record of student does not exist an appropriate message is displayed. If it is, then the system displays the student details. Use sequential
-file to main the data.
-</td>
+    <td>Imagine a publishing company which does marketing for
+book and audio cassette versions. Create a class
+publication that stores the title (a string) and price (type
+float) of publications. From this class derive two classes:
+book which adds a page count (type int) and tape which
+adds a playing time in minutes (type float). Write a
+program that instantiates the book and tape class, allows
+user to enter data and displays the data members. If an
+exception is caught, replace all the data member values
+with zero values.</td>
   </tr>
   
   <tr>
     <td>12</td>
-    <td>Company maintains employee information as employee ID, name, designation and salary. Allow user to add, delete information of employee. Display information of particular employee. If employee does not exist an appropriate message is displayed. If it is, then the system displays the employee details. Use index sequential file to maintain the data.</td>
+    <td>Write a C++ program that creates an output file, writes
+information to it, closes the file and open it again as an
+input file and read the information from the file.</td>
   </tr>
-
+  
+  <tr>
+    <td>13</td>
+    <td>Write a function template selection Sort. Write a program
+that inputs, sorts and outputs an int array and a float array.</td>
+  </tr>
+  
+  <tr>
+    <td>14</td>
+    <td>Write C++ program using STL for sorting and searching
+user defined records such as personal records (Name,
+DOB, Telephone number etc.) using vector container.
+OR Write C++ program using STL for sorting and
+searching user defined records such as Item records (Item
+code, name, cost, quantity etc.) using vector container.</td>
+  </tr>
+  
+  <tr>
+    <td>15</td>
+    <td>Write a program in C++ to use map associative container.
+The keys will be the names of states and the values will be
+the populations of the states. When the program runs, the
+user is prompted to type the name of a state. The program
+then looks in the map, using the state name as an index and
+returns the
+population of the state.</td>
+  </tr>
+  
+  <tr>
+    <td>16</td>
+    <td>Design and develop the Tic-Tac-Toe Game using C++</td>
+  </tr>
+  
 </table>
